@@ -18,6 +18,18 @@ Location: Kyiv, Ukraine
 
 Freelancer and entrepreneur with a technical background. I have experience working with different information systems and platforms. Was engaged in various tasks related to the IT industry from creating consumer-focused web sites using HTML, CSS, Javascript, PHP, Python to technical writing and Search Engine Optimization (SEO). A conscientious hard working person with attention to detail and quality assurance of provided services. Have the ability to quick and eager learning.
 
+## Experience
+
+Freelancer, Entrepreneur
+august 2005 − present
+
+- Work on different individual projects
+- Develop and maintain web apps using standard development tools
+- Setting up production environments and deploying apps to the web servers using Docker-based tools
+- Provide Search Engines Optimization life cycle for websites promotion
+- Writing technical articles on website creation and deployment
+- Consulting services in choosing the right hardware, software, environment setups, web development processes, etc.
+
 ## Education
 
 EPAM Frontend Online Training
