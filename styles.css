@@ -1,0 +1,49 @@
+body {
+  margin: auto;
+  width: 1600px;
+  font-family: 'Rubik', sans-serif;
+}
+
+em {
+  font-weight: 300;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.left-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  width: 50%;
+  padding-left: 150px;
+  padding-right: 50px;
+  border-right: 3px solid black;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.name {
+  margin: 5px;
+  font-size: 96px;
+  text-align: right;
+}
+
+.scope {
+  font-size: 1.5rem;
+}
+
+.right-section {
+  margin-left: 20px;
+  padding-top: 20px;
+}
+
+.element-heading {
+  font-size: 1.1rem;
+}
