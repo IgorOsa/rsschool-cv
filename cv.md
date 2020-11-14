@@ -32,6 +32,10 @@ august 2005 − present
 
 ## Education
 
+The Rolling Scopes School NodeJS 2020 Q3 (Javascript) Course
+
+- `2020-10-2020-11` _REST API Building with NodeJS, Express, MongoDB with auth via JWT. CLI tool building. [Certificate of completion](https://app.rs.school/certificate/c2ou2t5h)._
+
 EPAM Frontend Online Training
 
 - `2020-04 - 2020-08` _HTML, CSS, Javascript, React, Angular, Webpack task-based learning_
