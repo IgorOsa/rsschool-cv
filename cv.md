@@ -32,6 +32,10 @@ august 2005 − present
 
 ## Education
 
+The Rolling Scopes School JavaScript/Front-end 2020 Q3 Course
+
+- `2020-09-2021-01` _Different task completed with HTML, CSS, SCSS, Javascript, Typescript, React._
+
 The Rolling Scopes School NodeJS 2020 Q3 (Javascript) Course
 
 - `2020-10-2020-11` _REST API Building with NodeJS, Express, MongoDB with auth via JWT. CLI tool building. [Certificate of completion](https://app.rs.school/certificate/c2ou2t5h)._
