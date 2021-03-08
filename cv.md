@@ -34,7 +34,7 @@ august 2005 − present
 
 The Rolling Scopes School JavaScript/Front-end 2020 Q3 Course
 
-- `2020-09-2021-01` _Different task completed with HTML, CSS, SCSS, Javascript, Typescript, React._
+- `2020-09-2021-01` _Different tasks completed with HTML, CSS, SCSS, Javascript, Typescript, React. [Certificate of completion](https://app.rs.school/certificate/jb4rocjm)._
 
 The Rolling Scopes School NodeJS 2020 Q3 (Javascript) Course
 
